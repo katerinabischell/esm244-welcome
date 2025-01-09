@@ -1,0 +1,15 @@
+---
+title: "Week 1"
+author: "Katerina Bischel"
+format: html
+editor: visual
+---
+
+## Advanced Data Analysis
+
+Katerina Bischel
+
+```{r}
+2+2
+
+```
